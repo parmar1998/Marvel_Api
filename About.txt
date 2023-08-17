@@ -1,0 +1,38 @@
+** Project Working**
+
+## Home Page Development #HomePage
+
+ 	[ ] Fetch and display a list of SuperHeroes (Characters) #FetchData
+	[ ] Use Marvel API to fetch data
+	[ ] Display fetched data on the home page
+	[ ] Implement a search bar #SearchBar
+	[ ] Filters out the characters based on the search query
+	[ ] The search should be case insensitive
+ 	[ ] Implement a favorite button for each search result #FavoriteButton
+	[ ] On click, the superhero is added to "My favorite superheroes" list
+
+## Superhero Page Development #SuperheroPage
+
+   [ ] On clicking any search result, open a new page with more information about the superhero
+   [ ] Display superhero information #SuperheroInfo
+   [ ] Name
+   [ ] Photo
+   [ ] Bio
+   [ ] Other information provided by the API (comics, events, series, stories, etc.)
+
+## My Favorite Superheroes Page Development #FavoriteSuperheroesPage
+
+	[ ] Display a list of all the favorite superheroes #FavoriteList
+	[ ] Make the favorite superheroes list persistent
+	[ ] The list should maintain the same number of superheroes before and after closing the browser
+	[ ] Implement a remove from favorites button for each superhero #RemoveButton
+	[ ] On click, the superhero should be removed from the list
+
+** Project Functionalities **
+
+LocalStorage - 	localStorage is meant for storing relatively small amounts of data that are required by your web application 
+				to provide a better user experience. If you need to store larger amounts of data or data that should be synchronized 
+				across devices or sessions, you might consider using other storage mechanisms, such as server databases 
+				or cloud storage solutions.
+				
+				
