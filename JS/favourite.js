@@ -1,4 +1,4 @@
-//  reating Var by Id Canvas
+//  creating Var by Id Canvas
 var canvas = document.getElementById("canvas");
 // Print on Console that it has stored.
 console.log(localStorage.length);
